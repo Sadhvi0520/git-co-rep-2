@@ -1,0 +1,31 @@
+A single python file is calledas module
+
+Interactive mode is basically gave respose line by line
+
+Scripted mode is typical way to perfome code where a python file is created and the code is executed all at once
+
+Indentation is most important block of code
+
+OPERATORS:
+1. special operators are also known as membership operator
+2. floor division returns an integer value
+3. exponent **
+   / gives quotient
+   % gives remainder
+4. assigenment operators are used to assign values to variables
+5. comparison operators are performed based on the values
+6. || pipe operator
+7. we don't have to use sign in program instead have to use words like and, not, or
+8. bitwise operators are
+  1. a | b : perform OR operation en each bit of the no.
+  2. a & b : perform AND operation on each bit of the no.
+  3. a ^ b : perform XOR operation
+9. ^ known as caret
+10. Identity operators are:
+    1. is: true if the operands are identical(refer to the same object)
+    2. is not: true if the operands are not identical(do not refer to the same object)
+11. it checks the address and not the values
+12. Membership operators are the operators which are used to check whether a value/ variables exists in the sequence like string. tuples, set, dictionary or not
+13. Membership operators are:
+    1. in
+    2. not in
